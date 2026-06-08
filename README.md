@@ -33,9 +33,13 @@ Full-stack developer with experience in back-end and front-end, working with mod
 **Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+<br>
+<br>
+<br>
+<br>
 ---
 
+**Connect with me**
 <div>
   <a href="https://github.com/rafaelpvs" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaelpvs_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on front-end and back-end.
 <div>
   <a href="https://github.com/rafaelpvs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelpvs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpvs&layout=compact&langs_count=16&theme=dark"/>
+    <img src="https://github.com/rafaelpvs/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://github.com/rafaelpvs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
   </a>
 </div>
 
